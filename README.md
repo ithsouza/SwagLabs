@@ -1,4 +1,4 @@
-# 🧪 SwagLabs — QA Challenge (Entrega Resumida)
+# 🧪 SwagLabs — QA Challenge 
 
 Documentação resumida para o desafio de QA Manual da **DIO** utilizando o contexto da loja virtual **SwagLabs Shopping**.
 
